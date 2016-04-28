@@ -1,0 +1,14 @@
+[
+{"currencyCode":"USD", "currencyName":"US Dollar", "hkdPerUnit":"7.7567247978", "date":"20160331"},
+{"currencyCode":"EUR", "currencyName":"Euro", "hkdPerUnit":"8.8341758669", "date":"20160331"},
+{"currencyCode":"GBP", "currencyName":"British Pound", "hkdPerUnit":"11.1544312177", "date":"20160331"},
+{"currencyCode":"INR", "currencyName":"Indian Rupee", "hkdPerUnit":"0.1172148743", "date":"20160331"},
+{"currencyCode":"AUD", "currencyName":"Australian Dollar", "hkdPerUnit":"5.9550018274", "date":"20160331"},
+{"currencyCode":"CAD", "currencyName":"Canadian Dollar", "hkdPerUnit":"5.9818848869", "date":"20160331"},
+{"currencyCode":"SGD", "currencyName":"Singapore Dollar", "hkdPerUnit":"5.7607644649", "date":"20160331"},
+{"currencyCode":"CHF", "currencyName":"Swiss Franc", "hkdPerUnit":"8.0974535453", "date":"20160331"},
+{"currencyCode":"MYR", "currencyName":"Malaysian Ringgit", "hkdPerUnit":"2.0040588501", "date":"20160331"},
+{"currencyCode":"JPY", "currencyName":"Japanese Yen", "hkdPerUnit":"0.0689955374", "date":"20160331"},
+{"currencyCode":"CNY", "currencyName":"Chinese Yuan Renminbi", "hkdPerUnit":"1.2035890138", "date":"20160331"},
+{"currencyCode":"NZD", "currencyName":"New Zealand Dollar", "hkdPerUnit":"5.3709140477", "date":"20160331"}
+]

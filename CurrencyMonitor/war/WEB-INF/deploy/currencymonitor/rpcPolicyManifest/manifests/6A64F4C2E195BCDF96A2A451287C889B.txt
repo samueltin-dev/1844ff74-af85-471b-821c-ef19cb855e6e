@@ -1,0 +1,2 @@
+serviceClass: com.pm.currencymonitor.client.CurrencyPriceService
+path: A716D24E24E31393199019D1A6D8B381.gwt.rpc

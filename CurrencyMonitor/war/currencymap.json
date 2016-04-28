@@ -1,0 +1,14 @@
+[
+{"CurrencyCode":"USD", "CurrencyName":"US Dollar"},
+{"CurrencyCode":"EUR", "CurrencyName":"Euro"},
+{"CurrencyCode":"GBP", "CurrencyName":"British Pound"},
+{"CurrencyCode":"INR", "CurrencyName":"Indian Rupee"},
+{"CurrencyCode":"AUD", "CurrencyName":"Australian Dollar"},
+{"CurrencyCode":"CAD", "CurrencyName":"Canadian Dollar"},
+{"CurrencyCode":"SGD", "CurrencyName":"Singapore Dollar"},
+{"CurrencyCode":"CHF", "CurrencyName":"Swiss Franc"},
+{"CurrencyCode":"MYR", "CurrencyName":"Malaysian Ringgit"},
+{"CurrencyCode":"JPY", "CurrencyName":"Japanese Yen"},
+{"CurrencyCode":"CNY", "CurrencyName":"Chinese Yuan Renminbi"},
+{"CurrencyCode":"NZD", "CurrencyName":"New Zealand Dollar"}
+]
