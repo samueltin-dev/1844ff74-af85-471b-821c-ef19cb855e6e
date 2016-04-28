@@ -23,7 +23,7 @@ public class CurrencyCodeDataService extends HttpServlet {
     	
     	PrintWriter out = resp.getWriter();
     	
-    	String json = readFile("./currencymap.json");
+    	String json = readFile("/tmp/currencymap.json");
     	
     	out.println(json);
     	out.flush();

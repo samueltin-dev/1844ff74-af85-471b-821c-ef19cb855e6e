@@ -88,24 +88,10 @@ public class HistoricalRateServiceImpl implements HistoricalRateService {
 	 * @return
 	 */
 	private String getHistoricalRateFileName() {
-		return "./historicalrate_" + getlastDayofLastMonth() + ".json";
+		return "/tmp/historicalrate_20160331.json";
 	}
 
 	
-	/**
-	 * 
-	 * @return last day of last month in yyyyMMdd format
-	 */
-	private String getlastDayofLastMonth() {
-		Calendar calendar = Calendar.getInstance();
-		calendar.add(Calendar.MONTH, -1);
-		calendar.set(Calendar.DATE, calendar.getActualMaximum(Calendar.DATE));
-
-		SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMdd");
-
-		return sdf.format(calendar.getTime());
-	}
-
 	/**
 	 * Convert jsonObj hkdPerUnit into Double
 	 * @param jsonObj
