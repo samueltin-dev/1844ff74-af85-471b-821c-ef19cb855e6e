@@ -2,7 +2,7 @@
 
 Tested with Ubuntu 14.04 with tomcat 9
 
-Deployment Instrument:
+Deployment Steps:
 
 1. copy /CurrencyMonitor/war/CurrencyMonitor.war to [tomcat]/webapps directory
 2. copy /CurrencyMonitor/war/currencymap.json to /tmp directory
