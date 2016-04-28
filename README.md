@@ -1,1 +1,11 @@
-# 1844ff74-af85-471b-821c-ef19cb855e6e
+# CurrencyMonitor
+
+Tested with Ubuntu 14.04 with tomcat 9
+
+Deployment Instrument:
+
+1. copy /CurrencyMonitor/war/CurrencyMonitor.war to [tomcat]/webapps directory
+2. copy /CurrencyMonitor/war/currencymap.json to /tmp directory
+3. copy /CurrencyMonitor/war/historicalrate_20160331.json /tmp directory
+4. start Tomcat
+5. Go to Browser address type http://localhost:8080/CurrencyMonitor/
